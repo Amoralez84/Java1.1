@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-
+* [В руководстве использования KeyValidator среди валидных ключей присутствуют невалидные](https://github.com/Amoralez84/Java1.1/issues/1)
 
 
 ## Описание процесса тестирования
@@ -15,8 +15,8 @@
 + [Инструкция по установке OpenJDK 11](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/openjdk11-manual.md)
 + [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 + Баг-репорты:
-  -[]()
-  -[]()
+  1. [В руководстве использования KeyValidator среди валидных ключей присутствуют невалидные](https://github.com/Amoralez84/Java1.1/issues/1)
+  1. []()
 
 В качестве тестовых данных использовались данные [KeyValidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)>
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
@@ -31,5 +31,5 @@
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 Тестирование производилось в следующем окружении:
-* <Windows10>
-* <Java 11>
+* Windows 10
+* Openjdk 11
